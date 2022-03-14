@@ -18,6 +18,7 @@
 
 
 <div><h2>CONTRIBUTION GRAPH - </h2></div> 
+
 ![](https://activity-graph.herokuapp.com/graph?username=thedeveloperyug&theme=react-dark&area=true)
 
 <!--
