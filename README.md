@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="thedeveloperyug" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/thedeveloperyug?trk=profile-badge">Yogesh Pandey</a></div>
               
-
+[![Linkedin Badge](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thedeveloperyug/)]
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
