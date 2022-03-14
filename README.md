@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thedeveloperyug&column=7"/>
+  </a>
+</div>
+
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/thedeveloperyug?style=social">
