@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-              
-![Linkedin Badge](https://img.shields.io/badge/-thedeveloperyug-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thedeveloperyug/)
+[![Linkedin Badge](https://img.shields.io/badge/-Yogesh-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-singh-5092/)](https://www.linkedin.com/in/thedeveloperyug/)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
