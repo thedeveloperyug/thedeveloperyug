@@ -1,7 +1,7 @@
 ### Hi there 👋
 
               
-![Linkedin Badge](https://img.shields.io/badge/-thedeveloperyug-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thedeveloperyug/)]
+![Linkedin Badge](https://img.shields.io/badge/-thedeveloperyug-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thedeveloperyug/)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -10,6 +10,9 @@
   </a>
 </div>
 
+<div><h2>SKILLS - </h2></div> 
+
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> 
 
 
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/thedeveloperyug?style=social"> -->
