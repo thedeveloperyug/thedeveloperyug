@@ -11,6 +11,9 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/thedeveloperyug?style=social">
 
+
+![](https://activity-graph.herokuapp.com/graph?username=thedeveloperyug&theme=react-dark&area=true)
+
 <!--
 **thedeveloperyug/thedeveloperyug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
