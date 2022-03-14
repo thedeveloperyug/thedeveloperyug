@@ -11,7 +11,7 @@
 
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/thedeveloperyug?style=social"> -->
 
-<div><h2>LIVE PROFILE VISITORS - ![Visitor Count](https://profile-counter.glitch.me/thedeveloperyug/count.svg)</h2></div>
+<div><h2>LIVE PROFILE VISITORS - </h2>![Visitor Count](https://profile-counter.glitch.me/thedeveloperyug/count.svg)</div>
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=thedeveloperyug&theme=react-dark&area=true)
