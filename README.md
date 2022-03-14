@@ -9,7 +9,9 @@
 
 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/thedeveloperyug?style=social">
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/thedeveloperyug?style=social"> -->
+
+![Visitor Count](https://profile-counter.glitch.me/thedeveloperyug/count.svg)
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=thedeveloperyug&theme=react-dark&area=true)
