@@ -55,9 +55,19 @@
 
 
 <div><h2>CONTRIBUTION GRAPH - </h2></div> 
+<div>
+  
 
-![](https://activity-graph.herokuapp.com/graph?username=thedeveloperyug&theme=react-dark&area=true)
+    
+![](https://activity-graph.herokuapp.com/graph?username=thedeveloperyug&theme=react-dark&area=true)     
+    
 
+  
+   <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedeveloperyug&" alt="thedeveloperyug" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedeveloperyug&show_icons=true&locale=en&layout=compact" alt="thedeveloperyug" />
+  </div>
+
+  
+</div>
 <!--
 **thedeveloperyug/thedeveloperyug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
