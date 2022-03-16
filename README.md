@@ -63,7 +63,7 @@
     
 
   
-   <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedeveloperyug&" alt="thedeveloperyug" /> &nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedeveloperyug&show_icons=true&locale=en&layout=compact" alt="thedeveloperyug" />
+   <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedeveloperyug&" alt="thedeveloperyug" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedeveloperyug&show_icons=true&locale=en&layout=compact" alt="thedeveloperyug" />
   </div>
 
   
