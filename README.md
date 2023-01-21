@@ -2,6 +2,9 @@
 
 ![gitartwork](gitartwork.svg)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00F7CB&center=true&vCenter=true&width=435&lines=C%2B%2B+CODER;MERN+STACK+DEVELOPER;ML%2FAI+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+
 <h4>LinkedIn Profile --</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yogesh-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-singh-5092/)](https://www.linkedin.com/in/thedeveloperyug/)  
