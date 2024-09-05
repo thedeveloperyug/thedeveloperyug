@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a computer science student with a knack of learning something new everyday. In my free time I love to learn about latest technologies and work on my logic building skills.
+### Hi there 👋, I'm a Software Engineer with a knack of learning something new everyday. In my free time I love to learn about latest technologies and work on my logic building skills.
 
 ![gitartwork](gitartwork.svg)
 
