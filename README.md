@@ -3,7 +3,7 @@
 ![gitartwork](gitartwork.svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00F7CB&center=true&vCenter=true&width=435&lines=C%2B%2B+CODER;MERN+STACK+DEVELOPER;ML%2FAI+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00F7CB&center=true&vCenter=true&width=435&lines=C%2B%2B+CODER;ECLIPSE+SCORE+Open+Source+Contributor;ML%2FAI+Developer;MERN+STACK+DEVELOPER)](https://git.io/typing-svg)
 
 <h4>LinkedIn Profile --</h4>
 
